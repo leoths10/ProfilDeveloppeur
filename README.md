@@ -49,4 +49,4 @@ largeur de la fiche, puis on ajoute un espace interne autour.
 
 ## Capture d'écran
 
-![Application lancée](captures/appli.png)
+![Application lancée](app/captures/appli.png)
